@@ -1,0 +1,7 @@
+{
+    "name": "zyd",
+    "version": "1.0.0",
+    "bin": {
+        "zyd": "index.js"
+    }
+}
