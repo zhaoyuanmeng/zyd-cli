@@ -7,5 +7,12 @@
     "description": "Get to Know zyd-cli `npx zyd`",
     "dependencies": {
         "cli-welcome": "^2.2.2"
+    },
+    "license": "MIT",
+    "repository": "zhaoyuanmeng/zyd-cli",
+    "author": {
+        "email": "1426593075@qq.com",
+        "name": "zhaoyuanda",
+        "url": "https://github.com/zhaoyuanmeng/zhaoyuanmeng"
     }
 }
