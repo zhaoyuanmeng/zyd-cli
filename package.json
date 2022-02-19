@@ -6,6 +6,7 @@
     },
     "description": "Get to Know zyd-cli `npx zyd`",
     "dependencies": {
+        "chalk": "^3.0.0",
         "cli-welcome": "^2.2.2"
     },
     "license": "MIT",
