@@ -4,5 +4,8 @@
     "bin": {
         "zyd": "index.js"
     },
-    "dependencies": {}
+    "description": "Get to Know zyd-cli `npx zyd`",
+    "dependencies": {
+        "cli-welcome": "^2.2.2"
+    }
 }
