@@ -1,19 +1,22 @@
 {
-    "name": "zyd-cli",
-    "version": "2.0.0",
-    "bin": {
-        "zyd": "index.js"
-    },
-    "description": "Get to Know zyd-cli `npx zyd`",
-    "dependencies": {
-        "chalk": "^3.0.0",
-        "cli-welcome": "^2.2.2"
-    },
-    "license": "MIT",
-    "repository": "zhaoyuanmeng/zyd-cli",
-    "author": {
-        "email": "1426593075@qq.com",
-        "name": "zhaoyuanda",
-        "url": "https://github.com/zhaoyuanmeng/zhaoyuanmeng"
-    }
+  "name": "ha-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./bin/zyd",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "4.0.0",
+    "commander": "^9.3.0",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^10.1.0",
+    "inquirer": "^8.2.4",
+    "ora": "5.0.0"
+  }
 }
