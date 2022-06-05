@@ -8,7 +8,7 @@
 
 1. 初始化 npm init -y
 
-2. 实现窗口命令 zyd create xxx
+2. 实现窗口命令 ha-cli create xxx
 
 ## 步骤
 
