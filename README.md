@@ -25,3 +25,7 @@
 ## download-git-repo 安装 git 下面的资源
 
 ## 剩余问题 packag.json 写配置文件 模板引擎
+
+
+## 后面发布到npm 并且可以实现多项目选择(移动端和pc端)
+
