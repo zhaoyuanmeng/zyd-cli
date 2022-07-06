@@ -29,3 +29,11 @@
 
 ## 后面发布到npm 并且可以实现多项目选择(移动端和pc端)
 
+执行 npm login 登陆 npm 账号，如果没有账号的先注册一个
+执行 npm publish 进行发布
+
+发布完之后，我们来验证一下。
+
+执行 npm unlink 解绑一下全局命令
+执行 npm install ha-cli -g 全局安装脚手架
+执行 ha-cli create xxx
